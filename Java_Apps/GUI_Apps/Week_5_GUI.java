@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package week_5_gui;
+package Program_interface;
 import java.awt.Color;
 import javax.swing.*;
 import java.awt.GridLayout;
@@ -16,7 +16,7 @@ import javax.swing.JTextArea;
  *
  * @author Scott
  */
-public class Week_5_GUI {
+public class Program_Interface {
 
     // define the class fields to items in the project
     
