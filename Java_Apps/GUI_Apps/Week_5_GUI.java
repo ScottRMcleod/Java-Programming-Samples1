@@ -30,7 +30,7 @@ public class Program_Interface {
     private JTextArea txtArea1;
     public JMenuBar menuBar;
     public JMenu m1;
-    private Week_5_GUI() //Class Constructor 
+    private Program_Interface() //Class Constructor 
     {
          btnSave = new JButton("Enter Yor Name");
          btnCancel = new JButton("Cancel");
@@ -156,7 +156,7 @@ public class Program_Interface {
     public static void main(String[] args) {
         
         //defines a new gui object for the class 
-        Week_5_GUI gui = new Week_5_GUI();
+        Program_Interface gui = new Program_Interface();
         
         // Adding Componets to the JFrame 
             
